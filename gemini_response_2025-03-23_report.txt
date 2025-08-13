@@ -1,0 +1,16 @@
+Track ID: 1 | Condition: Here's the table summarizing the analysis of the image:
+
+| Label Present | Damage |
+|--------------|--------|
+| Yes          | No      | | Date: 2025-03-23 20:12:52
+
+Track ID: 2 | Condition: Here's the table summarizing the analysis of the image:
+
+| Label Present | Damage |
+|--------------|--------|
+| Yes          | No     | | Date: 2025-03-23 20:13:04
+
+Track ID: 3 | Condition: | Label Present | Damage |
+|--------------|--------|
+| Yes       | No | | Date: 2025-03-23 20:13:18
+

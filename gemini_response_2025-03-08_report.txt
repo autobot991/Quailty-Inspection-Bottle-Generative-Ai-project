@@ -1,0 +1,8 @@
+Track ID: 1 | Condition: Error processing image. | Date: 2025-03-08 21:58:44
+
+Track ID: 2 | Condition: Error processing image. | Date: 2025-03-08 21:58:51
+
+Track ID: 3 | Condition: Error processing image. | Date: 2025-03-08 21:59:04
+
+Track ID: 4 | Condition: Error processing image. | Date: 2025-03-08 21:59:17
+
